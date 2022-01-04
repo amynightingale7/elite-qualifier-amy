@@ -1,6 +1,6 @@
 # Title
+Iconic Quotes From 'The Office'
 
-Simple (or clever and funny?) description
 
 ## Table of Contents
 
@@ -12,14 +12,14 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+For Code2College we had to create a project. I picked a chatbot and decided the topic would be on my favorite show 'The Office' ! 
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+Python 3.7
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+Run the program and respond however you want. All it does is give quotes from 'The Office'.
 
 ### Any optional sections

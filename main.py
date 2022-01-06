@@ -38,7 +38,7 @@ def generate_quotes(user_input):
 def init_chat():
   quit_character = 'q'
 
-  user_input = input("Hello! Let's remember funny or inspirational quotes from the tv show, The Office! Press q whenver you are done!")
+  user_input = input("Hello! Let's remember funny or inspirational quotes from the tv show, The Office! Press q whenever you are done!")
 
   while user_input != quit_character:
     

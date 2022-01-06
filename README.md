@@ -22,4 +22,11 @@ Python 3.7
 
 Run the program and respond however you want. All it does is give quotes from 'The Office'.
 
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
+
 ### Any optional sections
